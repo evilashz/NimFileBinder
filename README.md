@@ -39,7 +39,7 @@ ShellExecute(0, "open", "cmd.exe", "/c del *CustomFileName*", NULL, SW_HIDE)
 
 
 
-**2. In lines 116-117, the code I have commented, you can enable it and modify the corresponding name, which may be useful for some anti-virus evasion ** 
+**2. In lines 116-117, the code I have commented, you can enable it and modify the corresponding name, which may be useful for some anti-virus evasion** 
 
 ```
 #copyFile("C:\\Windows\\Temp\\calc.txt", "C:\\Windows\\Temp\\calc.exe")
