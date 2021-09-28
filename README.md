@@ -1,3 +1,6 @@
+### 作者知识星球
+<img src="https://images-1258433570.cos.ap-beijing.myqcloud.com/images/20210912184747.png" width="400"> 
+
 # NimFileBinder
 ​	A Builder for Binding Evil File and Normal File with auto release
 
@@ -48,5 +51,3 @@ ShellExecute(0, "open", "cmd.exe", "/c del *CustomFileName*", NULL, SW_HIDE)
 
 ​	Release a txt file first, then copy to PE
 
-### 知识星球
-<img src="https://images-1258433570.cos.ap-beijing.myqcloud.com/images/20210912184747.png" width="400"> 
