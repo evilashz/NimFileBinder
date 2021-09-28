@@ -1,6 +1,7 @@
 #### 作者知识星球
 <img src="https://images-1258433570.cos.ap-beijing.myqcloud.com/images/20210912184747.png" width="400"> 
------
+
+
 # NimFileBinder
 ​	A Builder for Binding Evil File and Normal File with auto release
 
